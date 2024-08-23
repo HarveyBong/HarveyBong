@@ -3,9 +3,9 @@
 <p align ="center">Currently studying Fullstack Opensource at Chas Academy in Sweden and is currently looking for internship from 28th of October til 12th of April</p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harveybong&theme=dark&show_icons=true&locale=en&layout=compact" alt="harveybong" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harveybong&theme=dark&show_icons=true&locale=en&layout=compact"  height="180" alt="harveybong" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=harveybong&theme=dark&show_icons=true&locale=en" alt="harveybong" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harveybong&theme=dark&show_icons=true&locale=en"  height="180" alt="harveybong" />
   
   <img src="https://streak-stats.demolab.com?user=harveybong&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
