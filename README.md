@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix Nagy</h1>
 <h3 align="center">A Fullstack-Developer from Sweden</h3>
-
-<img src="https://raw.githubusercontent.com/Harveybong/Harveybong/output/snake.svg" alt="Snake animation" />
-
-###
+<p align ="center">Currently studying Fullstack Opensource at Chas Academy in Sweden</p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harveybong&theme=dark&show_icons=true&locale=en&layout=compact" alt="harveybong" />
