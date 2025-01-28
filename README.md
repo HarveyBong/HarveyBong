@@ -7,7 +7,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=harveybong&theme=dark&show_icons=true&locale=en"  height="180" alt="harveybong" />
   
-  <img src="https://streak-stats.demolab.com?user=harveybong&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+
 </div>
 
 
