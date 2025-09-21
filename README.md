@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felix Nagy</h1>
 <h3 align="center">A Fullstack-Developer from Sweden</h3>
-<p align ="center">Currently studying Fullstack Opensource at Chas Academy in Sweden</p>
+<p align ="center">Recently graduated Fullstack Open Source Developer from Chas Academy, Sweden.</p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harveybong&theme=dark&show_icons=true&locale=en&layout=compact"  height="180" alt="harveybong" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=harveybong&theme=dark&show_icons=true&locale=en"  height="180" alt="harveybong" />
+  
   
 
 </div>
