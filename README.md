@@ -2,13 +2,7 @@
 <h3 align="center">A Fullstack-Developer from Sweden</h3>
 <p align ="center">Recently graduated Fullstack Open Source Developer from Chas Academy, Sweden.</p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harveybong&theme=dark&show_icons=true&locale=en&layout=compact"  height="180" alt="harveybong" />
-  
-  
-  
 
-</div>
 
 
 ###
@@ -38,7 +32,7 @@
   <a href="https://instagram.com/felixnagy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felixnagy" height="30" width="40" />
   </a>
-  <a href="mailto:felix.nagy@chasacademy.se" target="blank">
+  <a href="mailto:felixnagy@icloud.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Email_icon.png" alt="felix nagy email" height="40" width="40" />
   </a>
 </p>
